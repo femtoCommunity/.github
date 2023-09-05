@@ -14,3 +14,12 @@
 - ### [LegendUtil](https://github.com/femtoCommunity/LegendUtil)
   
   **LegendUtil は、PC版 Apex Legends のプレイをより快適にするアプリケーションです。**
+
+## Member
+### Software Team
+- [**Milkeyyy**](https://github.com/Milkeyyy)
+  - [X](https://x.com/Milkeyyy_53)
+
+### Graphic Design Team
+- [**Rel1c**](https://github.com/Rel1c393)
+  - [X](https://x.com/Apex_tyaneko)
